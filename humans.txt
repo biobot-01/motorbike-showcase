@@ -1,15 +1,62 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+/* TEAM */
 
-    <name> -- <role> -- <twitter>
+    Developer: Kevin Michael
+    Site: https://biobot-01.github.io
+    Location: Cape Town, South Africa
 
-# THANKS
+/* SITE */
 
-    <name>
+    Standards: HTML5, CSS3, JavaScript
+    Components: Apache Server Configs, jQuery, Modernizr, Normalize.css, Bootstrap, Font Awesome, HTML5 Boilerplate, ekko lightbox
+    Software: Atom, Python3, Pelican, Git, GitHub Pages, Bitbucket
 
-# TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+
+
+                     .-.
+                    (   )
+                     '-'
+                     J L
+                     | |
+                    J   L
+                    |   |
+                   J     L
+                 .-'.___.'-.
+                /___________\
+           _.-""'           `mcc._
+         .'                       `.
+       J                            `.
+      F                               L
+     J                                 J
+    J                                  `
+    |                                   L
+    |                                   |               .----------------.
+    |                                   |              ( KILL ALL HUMANS! )
+    |                                   J               ,----------------'
+    |                                    L            -'
+    |                                    |
+    |             ,.___          ___....--._
+    |           ,'     `""""""""'           `-._
+    |          J           _____________________`-.
+    |         F         .-'   `-88888-'    `Y8888b.`.
+    |         |       .'         `P'         `88888b \
+    |         |      J       #     L      #    q8888b L
+    |         |      |             |           )8888D )
+    |         J      \             J           d8888P P
+    |          L      `.         .b.         ,88888P /
+    |           `.      `-.___,o88888o.___,o88888P'.'
+    |             `-.__________________________..-'
+    |                                    |
+    |         .-----.........____________J
+    |       .' |       |      |       |
+    |      J---|-----..|...___|_______|
+    |      |   |       |      |       |
+    |      Y---|-----..|...___|_______|
+    |       `. |       |      |       |
+    |         `'-------:....__|______.J
+    |                                  |
+     L___                              |
+         """----...______________....--'
